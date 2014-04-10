@@ -1,0 +1,6 @@
+These files allow for the creation of an Arch Linux package for the
+Aboriginal Serif fonts from http://www.languagegeek.com.
+
+The package is available on Arch AUR:
+
+https://aur.archlinux.org/packages/ttf-aboriginal-serif/
